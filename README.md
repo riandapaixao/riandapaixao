@@ -1,7 +1,7 @@
 ### Hi there 👋
 # I'm Rian da Paixão Ferreira
  - i Live in :brazil:, southeast.
- - I'm a beginner in the field of programming, but I'm enjoying learning to program.
+ - I'm a beginner in the field of programming.
  - I Love Games!
 
 ## My INFO:
