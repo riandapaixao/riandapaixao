@@ -2,7 +2,7 @@
 # I'm Rian da Paixão Ferreira
  - i Live in :brazil:, southeast.
  - I'm a beginner in the field of programming. :desktop_computer: :keyboard: :computer_mouse: 
- - I Love Games!
+ - I Love Games! 👾👽👻
 
 ## My INFO:
 ![riandapaixao's GitHub stats](https://github-readme-stats.vercel.app/api?username=riandapaixao&show_icons=true&theme=radical)
