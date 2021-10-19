@@ -1,7 +1,7 @@
 ### Hi there 👋
 # I'm Rian da Paixão Ferreira
  - i Live in São Paulo :brazil:, southeast.🏖️ 
- - I'm a beginner in the field of programming. :desktop_computer: :keyboard: :computer_mouse: 💾
+ - I'm a beginner in the field of programming. :desktop_computer: :keyboard: :computer_mouse: 💾 
  - I Love Games! 👾👽👻🕹️
 
 ## My INFO:
