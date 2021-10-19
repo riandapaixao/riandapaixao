@@ -5,10 +5,16 @@
  - I Love Games! 👾👽👻🕹️
 
 ## My INFO:
-![riandapaixao's GitHub stats](https://github-readme-stats.vercel.app/api?username=riandapaixao&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riandapaixao&layout=compact)](https://github.com/riandapaixao/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riandapaixao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandapaixao&layout=compact&langs_count=7&theme=radical"/>
+</div> 
 
-## My Skills
+
+ 
+## My Skills:
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
@@ -18,6 +24,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
+</div>
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/rian-da-paix%C3%A3o-ferreira-101132199/" target="_blank">
@@ -28,6 +35,9 @@
 <a href="https://www.linkedin.com/in/rian-da-paix%C3%A3o-ferreira-101132199/" target="_blank">
 <img align="center" alt="riandapaixao-linkedin" height="30' width="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"style="max-width:100%;">
 </a>
+                                                           
+![riandapaixao's GitHub stats](https://github-readme-stats.vercel.app/api?username=riandapaixao&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riandapaixao&layout=compact&langs_count=7&theme=radical)](https://github.com/riandapaixao/github-readme-stats)
 -->
 
 
