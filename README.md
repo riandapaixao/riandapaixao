@@ -12,6 +12,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/rian-da-paix%C3%A3o-ferreira-101132199/" target="_blank">
