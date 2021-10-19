@@ -5,14 +5,12 @@
  - I Love Games! 👾👽👻🕹️
 
 ## My INFO:
-<div align="center">
+
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riandapaixao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandapaixao&layout=compact&langs_count=7&theme=radical"/>
-</div> 
 
 
- 
 ## My Skills:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
