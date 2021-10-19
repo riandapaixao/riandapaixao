@@ -14,7 +14,7 @@
 
  
 ## My Skills:
-<div align="center">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
@@ -24,7 +24,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
-</div>
+
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/rian-da-paix%C3%A3o-ferreira-101132199/" target="_blank">
