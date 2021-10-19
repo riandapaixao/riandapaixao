@@ -6,7 +6,7 @@
 
 ## My INFO:
 ![riandapaixao's GitHub stats](https://github-readme-stats.vercel.app/api?username=riandapaixao&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riandapaixao)](https://github.com/riandapaixao/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riandapaixao&layout=compact)](https://github.com/riandapaixao/github-readme-stats)
 
 ## My Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
