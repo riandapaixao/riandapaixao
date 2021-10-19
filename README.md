@@ -21,9 +21,9 @@
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/rian-da-paix%C3%A3o-ferreira-101132199/" target="_blank">
-<img align="center" alt="riandapaixao-linkedin" height="30' width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-style="max-width:100%;">
+<img align="center" alt="riandapaixao-linkedin" height="30' width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"style="max-width:100%;">
 </a>
+
 
 
                   
